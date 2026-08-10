@@ -14,11 +14,13 @@
 
 ### Professional
 
-I'm a software developer and computer engineer, and I’ve been working with front-end for a little over 4 years.
+I'm a software developer and computer engineer, and I’ve been working with front-end development for over 5 years.
 
 I spent over 3 years as a front-end developer at one of Brazil’s largest e-commerce platforms, building fast, accessible Vue/Nuxt interfaces used by millions of people.
 
-Today I work as a front-end developer in a Brazilian team on a US product, with a strong focus on performance, including shipping pixel-perfect pages that reach 100/100 on Lighthouse.
+I later worked on a US product with a strong focus on performance, including shipping pixel-perfect pages that reached 100/100 on Lighthouse.
+
+Today, I work with a UK-based team specializing in CRO and experimentation, developing and implementing A/B tests for international clients. My work combines front-end development with experimentation and analytics, including building test variations, implementing tracking and metrics, and working with platforms such as Monetate, Convert and AB Tasty.
 
 ---
 
